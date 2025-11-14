@@ -1,2 +1,5 @@
 Nom: Riu
 Element: Gel
+
+Historia:
+Va estar estudiant amb als mags del Castell, Y es va especialitzar en la magia de gel.
